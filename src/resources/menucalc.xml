@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menubar name="mainMenu">
+	<menu name="file3" text="Действие" mnemonic="Д">
+		<menuitem name="mult" text="Умножение" mnemonic="У" accelerator="alt C"/>
+		<menuitem name="addition" text="Сложение" mnemonic="С" accelerator="alt A"/>
+		<menuitem name="subtraction" text="Вычитание" mnemonic="В" accelerator="alt S"/>
+	</menu>
+	<menu name="file" text="Выход" mnemonic="Ф">
+		<menuitem name="exit" text="Выход" mnemonic="В" accelerator="alt X"/>
+	</menu>
+
+</menubar>
